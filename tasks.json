@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "description": "Answer this 2-question survey",
+    "reward": 0.50,
+    "premium": false,
+    "price": 0
+  },
+  {
+    "id": 2,
+    "description": "Watch this short YouTube video: https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+    "reward": 0.30,
+    "premium": false,
+    "price": 0
+  },
+  {
+    "id": 3,
+    "description": "Read this article: https://www.bbc.com/news/world-60525350 and summarize in 2 sentences",
+    "reward": 0.25,
+    "premium": false,
+    "price": 0
+  },
+  {
+    "id": 4,
+    "description": "Share this link on social media: https://bit.ly/microtaskpromo",
+    "reward": 0.20,
+    "premium": false,
+    "price": 0
+  },
+  {
+    "id": 5,
+    "description": "Premium survey - $1 to unlock, reward $0.70",
+    "reward": 0.70,
+    "premium": true,
+    "price": 1.00
+  },
+  {
+    "id": 6,
+    "description": "Premium video task - $2 to unlock, reward $1.50\nWatch here: https://www.youtube.com/watch?v=9bZkp7q19f0",
+    "reward": 1.50,
+    "premium": true,
+    "price": 2.00
+  },
+  {
+    "id": 7,
+    "description": "Premium link sharing - $1 to unlock, reward $0.80\nShare this link: https://bit.ly/premium-microtask",
+    "reward": 0.80,
+    "premium": true,
+    "price": 1.00
+  }
+]
+
